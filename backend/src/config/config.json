@@ -1,0 +1,11 @@
+{
+    "dev" : {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "student_management",
+        "charset": "utf8",
+        "client" : "mysql2"
+    }
+    
+}
